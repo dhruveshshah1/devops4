@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/dhruveshshah1/devops4.svg?style=svg&circle-token=7a52a4956bc7241e7c926c860e4f2964adc5fb87)](https://app.circleci.com/pipelines/github/dhruveshshah1/devops4)
 
 # Cloud DevOps, Scaling Microservices
 
